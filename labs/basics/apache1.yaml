@@ -3,7 +3,7 @@ kind: Pod
 metadata:
     name: apache1
     labels:
-      mycka: simplilearn
+      mycka: ms
 spec:
     containers:
     - name: mycontainer

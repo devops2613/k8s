@@ -4,7 +4,7 @@ metadata:
   name: myservice
 spec:
   selector:
-    mycka: simplilearn
+    mycka: ms
   ports:
   - protocol: TCP
     port: 8081
